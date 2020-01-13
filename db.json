@@ -1,0 +1,34 @@
+{
+	"data":
+	[
+		{"admin":
+			{
+				"name": "John",
+				"username": "johndoe"
+			}
+		},
+	 	{"participants":
+			[
+				{
+					"id":1,
+					"name":"Roce Cua",
+					"batch":2019,
+					"payment_status":0
+				},
+				{
+					"id":2,
+					"name":"Mario Juentes",
+					"batch":2017,
+					"payment_status":1
+				},
+				{
+					"id":3,
+					"name":"Juan Dela Cruz",
+					"batch":2014,
+					"payment_status":0
+				}
+			]
+		}	
+	]	
+	
+}
